@@ -1,5 +1,12 @@
 # Docker and Python
 
+### screenshot of log
+<img width="1105" alt="Screenshot 2024-11-03 at 12 56 05 AM" src="https://github.com/user-attachments/assets/600ee323-65e4-4e58-b89c-644fefcb0939">
+
+### qrcode
+<img width="300" alt="qr-code" src="https://github.com/user-attachments/assets/1d0e0113-d77b-4055-8c82-b2db2b907581">
+
+
 For this assignment you will be combining Docker with Python to create a program that generates a QR code PNG file that
 contains a URL. The QR code can be viewed with the camera on your phone to allow a user to click on it and send them to
 the target website. You must make your program generate a QR code that takes someone to your GitHub homepage i.e. https://github.com/kaw393939 <replace mine with yours>
